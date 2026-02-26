@@ -1,0 +1,1 @@
+To implement Linear Regression and Logistic Regression models on a real-world Resume Dataset to predict similarity scores between resumes and job descriptions and classify candidates as high-match or low-match
